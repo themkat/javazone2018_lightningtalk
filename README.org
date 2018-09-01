@@ -31,3 +31,10 @@ This presentation is powered by WebSlides, which is a cool feature rich, easy-to
 #+END_SRC
  
 My changes to Webslides code can be used by any if you want to. The content of the presentation is mine, but you may use it if you feel it is useful. If you use bigger portions, then I would be happy if you linked to this github repo. 
+
+** Image acknowledgments 
+All the images used are either public domain or logo for a programming language (take a guess). The creators and sources of the images are given below. I have downloaded all of them into this project only to be able to present without internet (because internet connections can be shaky). I do NOT present myself as the creator of these images. 
+
+
+Chair with balloon outro image taken by Florian Klauer:
+https://unsplash.com/photos/nptLmg6jqDo
