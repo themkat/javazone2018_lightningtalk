@@ -35,6 +35,8 @@ My changes to Webslides code can be used by any if you want to. The content of t
 ** Image acknowledgments 
 All the images used are either public domain or logo for a programming language (take a guess). The creators and sources of the images are given below. I have downloaded all of them into this project only to be able to present without internet (because internet connections can be shaky). I do NOT present myself as the creator of these images. 
 
+Intro image (desktop) by Jess Watters:
+https://unsplash.com/photos/zljcr_RjWPA
 
 Ferris wheel (first builder slide) by Adam Birkett:
 https://unsplash.com/photos/lkNa1eg2d18
