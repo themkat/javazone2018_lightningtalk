@@ -141,19 +141,40 @@
 					<span class="background" style="background-image:url('https://images.unsplash.com/photo-1533755594886-3a884d4f44e1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=96fab006a44bf4aa44703da3dd79458e&auto=format&fit=crop'); background-position: right bottom; opacity: 0.5; width: 143vw;"></span>
 					<div class="wrap">
 						<h1><strong>Assertion libraries</strong></h1>
-						<p class="text-intro">Kluent (shouldEqual etc.)
-							<br />
-							Atrium
-							<br />
-							Expekt
-							<br />
-							Junit assertions
-							<br />
-							Hamcrest and other things supported in Java like AssertJ
+						<p class="text-intro">A quick taste of different types of assertions
 						</p>
 					</div>
 				</section>
 
+				<section class="fullscreen bg-white slide-top">
+					<span class="background-center" style="background-image:url('static/img/assertion_kluent.png'); background-size: 75%;"></span>
+					<div class="content-center">
+						<h1><strong>Assertion library - Kluent</strong></h1>
+					</div>
+				</section>
+
+				<section class="fullscreen bg-white slide-top">
+					<span class="background-center" style="background-image:url('static/img/assertion_expekt.png'); background-size: 75%;"></span>
+					<div class="content-center">
+						<h1><strong>Assertion library - Expekt</strong></h1>
+					</div>
+				</section>
+
+				<section class="fullscreen bg-white slide-top">
+					<span class="background-center" style="background-image:url('static/img/assertion_atrium.png'); background-size: 55%;"></span>
+					<div class="content-center">
+						<h1><strong>Assertion library - Atrium</strong></h1>
+					</div>
+				</section>
+
+				<section class="fullscreen bg-white slide-top">
+					<span class="background-center" style="background-image:url('static/img/assertion_junit.png'); background-size: 75%;"></span>
+					<div class="content-center">
+						<h1><strong>Assertion library - JUnit and beyond</strong></h1>
+					</div>
+				</section>
+
+				
 				<section class="">
 					<span class="background" style="background-image:url('https://images.unsplash.com/photo-1495745713439-7efd16a9555c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=04dac6c44ebf3f41bc3401cd9e4430dc&auto=format&fit=crop')"></span>
 					<div class="wrap">
@@ -269,7 +290,9 @@
 		</main>
 		<script src="static/js/webslides.js"></script>
 		<script>
-		 window.ws = new WebSlides();
+		 window.ws = new WebSlides({
+			 changeOnClick: true
+		 });
 		</script>
 
 		<!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
