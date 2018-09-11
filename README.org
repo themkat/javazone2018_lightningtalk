@@ -49,3 +49,10 @@ https://unsplash.com/photos/ckQ1y8UO9ZU
 
 Chair with balloon outro image taken by Florian Klauer:
 https://unsplash.com/photos/nptLmg6jqDo
+
+more image owners will be added later...
+
+Unsplash images are downloded and added to this repo to be available offline. 
+
+
+JUnit5, Spek and Kotlin logos are owned by JUnit and Jetbrains respectively.
