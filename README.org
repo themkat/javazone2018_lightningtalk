@@ -1,6 +1,6 @@
 * JavaZone 2018 lightning talk - The Beauty and Elegance of testing in Kotlin
 
-This year I have my first lightning talk at JavaZone! :D Here is the source for the slides, link to image creators and other information I may like to add. This way you can go through the slides for yourself if you thought it was interesting. 
+This year I had my first lightning talk at JavaZone! Here is the source for the slides, link to image creators and other information I may like to add. This way you can go through the slides for yourself if you thought it was interesting. 
 
 
 ** Webslides
