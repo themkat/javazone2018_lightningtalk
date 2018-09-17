@@ -1,10 +1,10 @@
 * JavaZone 2018 lightning talk - The Beauty and Elegance of testing in Kotlin
 
-This file will be a work in progress helper document for my JavaZone presentation. 
+This year I have my first lightning talk at JavaZone! :D Here is the source for the slides, link to image creators and other information I may like to add. This way you can go through the slides for yourself if you thought it was interesting. 
 
 
 ** Webslides
-This presentation is powered by WebSlides, which is a cool feature rich, easy-to-use presentation framework. I have downloaded Webslides as mentioned on their github page, but I have overridden and edited some settings (as you probably will when using it). Thanks to the creator of it for creating such a fantastic presentation framework :) . The license for Webslides is included below:
+This presentation is powered by WebSlides, which is a cool feature rich, easy-to-use presentation framework. I have downloaded Webslides as mentioned on their github page and included it here. Thanks to the creator of it for creating such a fantastic presentation framework :) . The license for Webslides is included below:
 #+BEGIN_SRC fundamental
   MIT License
 
@@ -50,9 +50,22 @@ https://unsplash.com/photos/ckQ1y8UO9ZU
 Chair with balloon outro image taken by Florian Klauer:
 https://unsplash.com/photos/nptLmg6jqDo
 
-more image owners will be added later...
+Cactus in pot by Scott Webb
+https://unsplash.com/photos/hDyO6rr3kqk
+
+Chair alone in white room by Ron McClenny:
+https://unsplash.com/photos/pNG1WHerkrQ
+
+Leaves (green minimalism) by Josh Calabrese:
+https://unsplash.com/photos/XXpbdU_31Sg
+
+Red bottle (Vase) by 五玄土 ORIENTO 王杉:
+https://unsplash.com/photos/lh7ZFoTtfi0
+
+
+
+If I have forgotten any image creators, please let me know! You made my presentation beautiful and you deserve credit :) 
 
 Unsplash images are downloded and added to this repo to be available offline. 
-
 
 JUnit5, Spek and Kotlin logos are owned by JUnit and Jetbrains respectively.
