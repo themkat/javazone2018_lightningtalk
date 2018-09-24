@@ -3,6 +3,28 @@
 This year I had my first lightning talk at JavaZone! Here is the source for the slides, link to image creators and other information I may like to add. This way you can go through the slides for yourself if you thought it was interesting. 
 
 
+** Watch it!
+The video is finally out on Vimeo now! ..but there is one problem... There were technical issues, so the first few seconds are lost. I will try to recap the seconds in the next subsection. I don't want anyone hating on the JavaZone crew because of this!!!! They have been amazing and accommodating, and they tried their best to find the missing seconds. They were also very open on adding additional slides at the beginning if needed. Technical problems happen, all people who work in an IT field experience that from time to time... I hope you still get something out of my presentation :smile: Remember, have fun with programming in Kotlin! 
+
+
+*** What was lost
+The first slide was lost. It would look something like this (clone the project and open index.html in your browser for better quality! the colors look weird in this gif):
+[[./introslide.gif]]
+
+
+In this slide i simply say:
+"Hello, and welcome to The Beauty and Elegance of testing in Kotlin! My name is Marie Katrine Ekeberg, and I work as a developer at Evry". 
+
+
+The next slide is not lost, but some things I say are lost from it. I probably said something roughly like this:
+"Do you enjoy writing tests? When was the last time you wrote a test? Did it turn into a whole mess of object initialization and messy code? ..."
+(or something along the lines of that. 
+
+
+*** The video
+[[https://2018.javazone.no/program/5b95ae2c-41de-489b-bf44-1260d8b0f12b][Watch at JavaZone website (with descriptions, intended audience etc.)]]
+[[https://vimeo.com/291355602][Watch on Vimeo]]
+
 ** Webslides
 This presentation is powered by WebSlides, which is a cool feature rich, easy-to-use presentation framework. I have downloaded Webslides as mentioned on their github page and included it here. Thanks to the creator of it for creating such a fantastic presentation framework :) . The license for Webslides is included below:
 #+BEGIN_SRC fundamental
